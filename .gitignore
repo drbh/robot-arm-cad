@@ -11,3 +11,6 @@ wheels/
 
 # Backup files
 .bak
+
+# output files
+output/*.3mf
